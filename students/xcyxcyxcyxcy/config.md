@@ -1,23 +1,23 @@
 ### `/lab2b/part01/link`
 none
 ### `/lab2b/part01/status`
-not-started
+In progress
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
-not-started
+In progress
 ### `/lab2b/part03/link`
 none
 ### `/lab2b/part03/status`
-not-started
+In progress
 ### `/lab2b/part04/link`
 none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+(https://github.com/xcyxcyxcyxcy/lab2b-part-5/blob/main/README.md)
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
